@@ -1,0 +1,24 @@
+#
+# Logs & DB
+############
+*.log
+*.lock
+programs/db/*.xml
+
+
+#
+# IDE Project Files
+####################
+*.project
+
+
+#
+# Apple BS
+####################
+*.DS_Store
+
+
+#
+# htaccess (see *.hta)
+#######################
+*.htaccess
